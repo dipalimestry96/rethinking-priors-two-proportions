@@ -19,7 +19,7 @@
 
 This repository contains all R codes used for the simulation studies and real data illustrations in the paper:
 
-> "When Uniform Isn't Uniform: Rethinking Priors for the Difference of Two Proportions"
+> "When Uniform Isn't Uniform: Rethinking Priors for the Difference of Two Proportions."
 ---
 
 ## Repository Structure
@@ -62,9 +62,7 @@ R version 4.0 or higher with the following
 packages:
 
 ```r
-install.packages(c("coda", "data.table", 
-                   "ggplot2", "ggdist",
-                   "Stat2Data"))
+install.packages(c("coda", "data.table", "ggplot2", "ggdist","Stat2Data"))
 ```
 
 ---
